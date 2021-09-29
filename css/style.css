@@ -120,6 +120,21 @@ h6, .h6 {
 p {
   line-height: 1.8; }
 
+.course-module-title {
+    background-color: #891811;
+    color : white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.img-course {
+    height: 300px;
+    width: 350px;
+    object-fit: cover;
+    object-position:center;
+}
+
 .bg-primary h1,
 .bg-primary h2,
 .bg-primary h3,
@@ -2314,6 +2329,7 @@ button {
 	Course
 *****************************/
 .course-item {
+  cursor:pointer;
   position: relative;
   -webkit-box-shadow: 0px 4px 20px -3px rgba(22, 36, 62, 0.15);
           box-shadow: 0px 4px 20px -3px rgba(22, 36, 62, 0.15);
@@ -2343,6 +2359,7 @@ button {
           background: #ffffff;
           color: #891811; }
   .course-item .course-conten {
+    height: 160px;
     padding: 20px;
     position: relative;
     border: 1px solid #f6f6f6;
