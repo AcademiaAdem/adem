@@ -135,6 +135,13 @@ p {
     object-position:center;
 }
 
+.img-team {
+  height: 480px;
+  width: 400px;
+  object-fit: cover;
+  object-position:center;
+}
+
 .bg-primary h1,
 .bg-primary h2,
 .bg-primary h3,

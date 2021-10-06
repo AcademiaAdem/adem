@@ -164,7 +164,7 @@ $('[data-toggle="popover"]').popover()
           effect: "slide",
           loop: true,
           autoplay: {
-            delay: 3000,
+            delay: 5000,
             disableOnInteraction: false,
           },
           keyboard: {
