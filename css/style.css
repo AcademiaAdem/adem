@@ -142,6 +142,12 @@ p {
   object-position:center;
 }
 
+.img-logo {
+  height: 85px !important;
+  width: 205px;
+  object-fit: cover;
+}
+
 .bg-primary h1,
 .bg-primary h2,
 .bg-primary h3,
@@ -3650,7 +3656,7 @@ button {
   position: relative;
   z-index: 99; }
   .header .navbar-brand img {
-    height: 50px; }
+    height: 80px; }
   .header .header-contact-info i {
     width: 40px;
     height: 40px;
