@@ -2361,7 +2361,7 @@ button {
   .course-item .coures-img {
     position: relative; }
     .course-item .coures-img img {
-      border-radius: 5px 5px 0 0; }
+      border-radius: 8px 8px 8px 8px; }
     .course-item .coures-img .course-tag {
       position: absolute;
       top: 10px;
