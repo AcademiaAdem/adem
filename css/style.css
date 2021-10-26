@@ -132,9 +132,8 @@ p {
     margin-bottom: 15px;
     margin-top: 15px;
     height: 300px;
-    width: 350px;
+    width: 300px;
     object-fit: cover;
-    background-size: cover;
     object-position:center;
 }
 
@@ -142,9 +141,8 @@ p {
   margin-bottom: 15px;
   margin-top: 15px;
   height: 300px;
-  width: 350px;
+  width: 300px;
   object-fit: cover;
-  background-size: cover;
   object-position:center;
 }
 
