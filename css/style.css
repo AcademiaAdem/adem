@@ -129,7 +129,8 @@ p {
 }
 
 .img-course {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
     height: 300px;
     width: 350px;
     object-fit: cover;
@@ -137,7 +138,8 @@ p {
 }
 
 .img-ebook {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
+  margin-top: 15px;
   height: 300px;
   width: 350px;
   object-fit: cover;
